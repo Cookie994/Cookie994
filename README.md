@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cookie994
+- 👋 Hi, I’m Andrea
 - 👀 I’m back-end focused developer interested in scipting languages such as PHP and Python (can't wait to start learning Python)
 - 🌱 I’m currently learning Laravel and creating RESTful APIs from scratch (no frameworks involved). I'm also dabbling in Git and GitBash. <br>
 I realize that, so far, I've only had one (let's say big) project that I've worked on some time ago - it's an e-commerce website that has all the functionalities necessary,
