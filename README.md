@@ -7,6 +7,4 @@ I know how to - I'm no stranger when it comes to JavaScript, jQuery, AJAX and JS
 I've improved since then - I've learned how coding can be cleaner and easier and I'm looking forward to sharing new projects and hearing your thoughts.
 Being a self-taught programmer I don't really have anyone in my life who can help me and guide me in a right direction, it's just me and my best friend google. So I make mistakes,
 take wrong turns, lose time and efficiency, get stuck... as we all do. So, I think it's time for me to get out of that infamous "pit of despair" and hear your advices, learn more
-from the community - we were all begginers once.<br>
-Coding is lovely, it's freeing, it's a puzzle... and the more I get frustrated that pieces of a puzzle are not in their place, the more I learn, the freer I get.<br>
-Thank you! :)
+from the community - we were all begginers once.
