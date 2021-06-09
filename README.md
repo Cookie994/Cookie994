@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrea
-- 👀 I’m back-end focused developer interested in scripting languages such as PHP and Python (can't wait to start learning Python)
-- 🌱 I’m currently learning Laravel and creating RESTful APIs from scratch (no frameworks involved). I'm also dabbling in Git and GitHub. <br>
+- 👀 I’m back-end focused developer interested in scripting languages such as PHP and Python
+- 🌱 I’m currently learning Laravel and Python. I'm also dabbling in Git and GitHub. <br>
 I realize that, so far, I've only had one (let's say big) project that I've worked on some time ago - it's an e-commerce website that has all the functionalities necessary,
 however it was written in procedural coding style which, at the time, was the only thing I knew. I'm very proud of my project even though it lacks a lot - front-end to start with :D <br>
 I know how to - I'm no stranger when it comes to JavaScript, jQuery, Bootstrap, SASS and so on... but I just find talking to servers a lot more fun :) <br>
